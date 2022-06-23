@@ -18,7 +18,9 @@ body {
 h3,p{
     color: #000 !important;
 }
-
+header i{
+    margin-right: 10px !important;
+}
 figcaption {
     text-align: center;
     /* font-family: 'Pattaya', sans-serif; */

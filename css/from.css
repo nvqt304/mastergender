@@ -205,8 +205,9 @@ legend {
     text-align: center;
     width: 80%;
     display: inline-block;
+    text-transform: uppercase;
     background: linear-gradient(to right, #00000000, #ffffff, #ffffff, #00000000);
-    font-family: 'Lemonada', sans-serif;
+    /* font-family: 'Lemonada', sans-serif; */
     font-size: 20px !important;
 }
 
